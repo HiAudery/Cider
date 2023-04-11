@@ -7,5 +7,5 @@ The project includes data processing, data exploration, data visualization, data
 Topic: US Monthly Retail Trade (Jan1992-Jan2023)    
 Data source: https://www.census.gov/retail/mrts/www/mrtssales92-present.xlsx
 
-github link: 
+github link: https://github.com/HiAudery/Cider/    
 shinyapps.io: https://hiaudrey.shinyapps.io/shinyapp/
