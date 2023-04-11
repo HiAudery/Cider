@@ -1,7 +1,7 @@
 # Cider
-# Shiny, Happy, Interactive Web Apps with R!
+## Shiny, Happy, Interactive Web Apps with R!
 
-## Overview
+### Overview
 This is a Data Analysis and Visualization Project with R and Rshiny Web App.
 The project includes data processing, data exploration, data visualization, data modeling(Time Series HoltWinters forecast) and development of a RShiny web app.
 
