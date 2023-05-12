@@ -1,5 +1,5 @@
-# Shiny, Happy, Interactive Web Apps with R!
-# Topic: US Monthly Retail Trade Analysis and Forecast Jan1992-Jan2023
+# US Monthly Retail Trade Analysis and Forecast Jan1992-Jan2023
+### Shiny, Happy, Interactive Web Apps with R!
 ## Overview
 This is a Data Analysis and Visualization Project with R and Rshiny Web App.
 The project includes data processing, data exploration, data visualization, data modeling(Time Series HoltWinters forecast) and development of an RShiny web app.
