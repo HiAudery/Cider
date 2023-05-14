@@ -11,3 +11,6 @@ https://hiaudrey.shinyapps.io/shinyapp/
 1. Web application development with RShinny.
 2. Time series analysis and forecast.
 3. Statistical analysis and visualization using R.
+
+## Some dae about the data set:
+https://rpubs.com/HiAudrey/hw0
